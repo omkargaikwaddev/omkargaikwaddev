@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is my portfolio website developed by using react library and three.js components, which shows my personal information, and achievments and all other information of me. And it can be accessed from laptop as well as from mobile devices, as it has auto scalable ratio, which shrinks and expand according to the device size....
 <!--
 **omkargaikwaddev/omkargaikwaddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
